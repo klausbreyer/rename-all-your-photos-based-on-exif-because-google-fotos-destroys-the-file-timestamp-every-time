@@ -1,4 +1,4 @@
-# rename-all-your-photos-based-on-exif-because-google-fotos-destroys-the-file-timestamp-every-time-when-you-batch-download
+# rename-all-your-photos-based-on-exif-because-google-fotos-destroys-the-file-timestamp
 
 Ever batch download your precious memories from Google Photos, only to find that all the original file timestamps are now utterly meaningless? Fret not! This handy script will save you from the horrors of chronologically chaotic photo folders by renaming all your photos based on their EXIF data!
 
